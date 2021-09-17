@@ -9,7 +9,7 @@ git commit -a
 	when menu comes up press i to comment and esc to leave that state. To commit, press ':' and 'wq' and then press enter to save
 
 git push --set-upstream <link to repository> <branch>
-git add .
+git add . 
 
 >>>>>>>> As per GitHub's instructions do this for existing code, new repo:
 git remote add origin <add link here>
