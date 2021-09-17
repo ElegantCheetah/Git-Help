@@ -1,0 +1,17 @@
+
+git push --force <remote_repository>
+git push
+git pull
+git fetch
+git tag <insert 1.0.0 tag here>
+git push --tags
+git commit -a
+	when menu comes up press i to comment and esc to leave that state. To commit, press ':' and 'wq' and then press enter to save
+
+git push --set-upstream <link to repository> <branch>
+git add .
+
+>>>>>>>> As per GitHub's instructions do this for existing code, new repo:
+git remote add origin <add link here>
+git branch -M master
+git push -u origin master
